@@ -117,6 +117,7 @@ body {
 /* team */
 .name{
     font-weight: 500;
+    font-size: 16px;
     line-height: 1.19;
 }
 
@@ -148,6 +149,7 @@ body {
 /* PORTFOLIO */
 .portfolio-btn {
     cursor: pointer;
+    font-family: 'Roboto';
     font-weight: 500;
     line-height: 1.6;
     letter-spacing: 0.03em;
